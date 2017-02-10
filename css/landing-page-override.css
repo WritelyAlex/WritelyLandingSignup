@@ -25,23 +25,22 @@
 	margin-left: -100px;
 }
 
-.hero-image {
+.hero-image-container {
 	height: 400px;
   padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
   padding-bottom: 50px;
-  text-align: center;
-  color: #f8f8f8;
-  /*background: url(../img/intro-bg.jpg) no-repeat center center;*/
-  background: url(../img/starscape.jpeg) no-repeat center center;
-  /*background-color: #303F9F;*/
+  /*text-align: center;*/
+  /*color: #f8f8f8;*/
+  background: url(../img/intro-bg.jpg) no-repeat center center;
   background-size: cover;
 }
 
 .intro-header {
-	padding-top: 75px;
+	color: black;
+	padding-top: 40px;
 	text-align: left;
 	font-size: 1.2em;
-	text-shadow: 2px 2px 3px rgba(0,0,0,0.6)
+	/*text-shadow: 2px 2px 3px rgba(0,0,0,0.6)*/
 }
 
 .intro-divider {
@@ -53,8 +52,8 @@
 }
 
 .intro-form {
-	padding-top: 17%;
-	padding-bottom: 5%;
+	padding-top: 14%;
+	padding-bottom: 4%;
 }
 
 .img-responsive {
