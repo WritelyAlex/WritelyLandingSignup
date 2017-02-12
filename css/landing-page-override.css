@@ -31,8 +31,19 @@
   padding-bottom: 50px;
   /*text-align: center;*/
   /*color: #f8f8f8;*/
-  background: url(../img/intro-bg.jpg) no-repeat center center;
+  background: url(../img/hero.png) no-repeat center center;
   background-size: cover;
+}
+
+.intro-section {
+	background-color: #F3F6FB;
+	padding-top: 8px;
+	padding-bottom: 0px;
+
+	color: black;
+	text-align: left;
+	border: none;
+	outline: none;
 }
 
 .intro-header {
