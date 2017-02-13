@@ -21,6 +21,13 @@ h6 {
     font-weight: 700;
 }
 
+.coming-soon {
+	text-align: center;
+	background-color: #FDE5A1;
+	padding: 15px;
+	margin: 0;
+}
+
 .topnav {
     font-size: 14px; 
 }
