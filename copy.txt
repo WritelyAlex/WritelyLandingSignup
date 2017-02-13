@@ -1,24 +1,37 @@
 Waiting List Page Text
 
 Next to signup form: 
-Title: What is Writely?
+
+What is Writely?
+
 Writely is an app designed to help you improve your writing with fun, regular lessons and prompts that only take 10 minutes. Write daily, get feedback, and watch your writing improve.
 Daily writing makes you Happier, Healthier, and A Better Writer.
 It's science!
 Writely is coming soon! Use the form to the right to join the waiting list!
 
-Feature 1 Enjoy Writing
+Feature 1:
+
+Enjoy Writing
+
 Our in-browser editor gives you a fun and focused place to relax and write. Feeling stuck? Get a prompt with a single click. 
 Want to work on something deeper? We have lessons that will walk you through working on bigger projects like short stories.
 
-Feature 2 Share and Annotate
+Feature 2:
+
+Share and Annotate
+
 Invite people to your writing and get feedback, or keep it private only for yourself. Your friends can stop by just to tell you they love what you’ve written or to give you editorial feedback!
 In a critical mood? Find other people’s writing in the forum and comment away.
 
-Feature 3 Stick with it
+Feature 3:
+
+Stick with it
+
 Picture of the dashboard
 Track your stats and get reminders so you’ll never miss a day of writing!
 
-Feature 4—Ebook thing
+Feature 4 (eBook):
+
 Get the Guide
+
 Signup for the waiting list and get our very special PDF ‘Writely on Writing’ which contains all the wisdom we uncovered in the making of Writely. Go deeper into the benefits of writing on your physical and mental health, learn about the tools available and get tips & tricks with ‘Writely on Writing’
