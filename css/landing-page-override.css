@@ -131,6 +131,16 @@
 	background-color: #FF8F00;
 }
 
+.book-container {
+	text-align: center;
+}
+
+.book-container .btn {
+	width: 300px;
+	margin-top: 15px;
+	border: 1px solid #888;
+}
+
 .book-cover {
 	height: 360px;
 	border: 1px solid black;
