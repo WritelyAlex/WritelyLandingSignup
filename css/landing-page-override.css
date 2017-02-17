@@ -17,7 +17,7 @@
 }
 
 .hero-image-container {
-	height: 400px;
+	height: 385px;
   background: url(../img/hero.png) no-repeat center center;
   background-size: cover;
 }
@@ -32,8 +32,8 @@
 
 .intro-section {
 	background-color: #F3F6FB;
+	padding-top: 3px;
 	padding-bottom: 0px;
-
 	color: black;
 	text-align: left;
 	border: none;
